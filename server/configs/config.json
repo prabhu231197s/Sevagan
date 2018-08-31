@@ -1,0 +1,24 @@
+{
+  "test": {
+    "host" : "127.0.0.1",
+    "port" : "3306",
+    "username" : "root",
+    "password" : "admin@123",
+    "database" : "sevagan"
+  },
+  "prod" : {
+    "host" : "photon.czy9nbnwqfir.us-east-2.rds.amazonaws.com",
+    "port" : "3306",
+    "username" : "master",
+    "password" : "Civilisation2018",
+    "database" : "photon"
+  },
+  "port" : 1111,
+  "apikey" : "AIzaSyC40XVdIU1QqSXEM5TXLZTsoipgGRzUZNw",
+  "options" : {
+    "provider" : "google",
+    "httpAdapter": "https",
+    "apiKey": "AIzaSyC40XVdIU1QqSXEM5TXLZTsoipgGRzUZNw",
+    "formatter": null
+  }
+}

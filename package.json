@@ -1,0 +1,33 @@
+{
+  "name": "sevagan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sevagan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PS",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "email-validator": "^1.1.1",
+    "express": "^4.16.2",
+    "geocoder": "^0.2.3",
+    "google-distance-matrix": "^1.1.1",
+    "googlemaps": "^1.12.0",
+    "moment": "^2.20.1",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0",
+    "nexmo": "^2.2.0",
+    "node-geocoder": "^3.22.0",
+    "nodemailer": "^0.7.1",
+    "path": "^0.12.7",
+    "pm2": "^2.9.1",
+    "sync-each": "^1.0.1",
+    "underscore": "^1.8.3",
+    "voucher-code-generator": "^1.1.1"
+  }
+}
